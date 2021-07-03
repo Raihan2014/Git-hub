@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0 ;
+}
+body{
+    background-image: url(ntr.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.drop-down{
+    background: rgb(150, 213, 233);
+    text-align: center;
+}
+.drop-down ul
+{
+    display: inline-flex;
+    list-style: center;
+    color: #fff;
+}
+.drop-down ul li{
+    width: 150px;
+    margin: 15px;
+    padding: 15px;
+    
+}
